@@ -1,0 +1,144 @@
+{
+  "figurines": [
+    {
+      "id": 1,
+      "name": "Balor 1",
+      "thumbnail": "images/thumbnails/balor_1.png",
+      "fullImage": "images/full/balor_1.png",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bandit1",
+      "thumbnail": "images/thumbnails/bandit1.jpg",
+      "fullImage": "images/full/bandit1.jpg",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bandit2",
+      "thumbnail": "images/thumbnails/bandit2.jpg",
+      "fullImage": "images/full/bandit2.jpg",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bandit3",
+      "thumbnail": "images/thumbnails/bandit3.jpg",
+      "fullImage": "images/full/bandit3.jpg",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Bandit4",
+      "thumbnail": "images/thumbnails/bandit4.jpg",
+      "fullImage": "images/full/bandit4.jpg",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Bandit5",
+      "thumbnail": "images/thumbnails/bandit5.jpg",
+      "fullImage": "images/full/bandit5.jpg",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Dark Elf Female Sniper 1",
+      "thumbnail": "images/thumbnails/dark_elf_female_sniper_1.png",
+      "fullImage": "images/full/dark_elf_female_sniper_1.png",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Dark Elf Scout 1",
+      "thumbnail": "images/thumbnails/dark_elf_scout_1.png",
+      "fullImage": "images/full/dark_elf_scout_1.png",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Dark Elf Warior 1",
+      "thumbnail": "images/thumbnails/dark_elf_warior_1.png",
+      "fullImage": "images/full/dark_elf_warior_1.png",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Goblin1",
+      "thumbnail": "images/thumbnails/goblin1.jpg",
+      "fullImage": "images/full/goblin1.jpg",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Goblin2",
+      "thumbnail": "images/thumbnails/goblin2.jpg",
+      "fullImage": "images/full/goblin2.jpg",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Goblin3",
+      "thumbnail": "images/thumbnails/goblin3.jpg",
+      "fullImage": "images/full/goblin3.jpg",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Goblin4",
+      "thumbnail": "images/thumbnails/goblin4.jpg",
+      "fullImage": "images/full/goblin4.jpg",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Goblin5",
+      "thumbnail": "images/thumbnails/goblin5.jpg",
+      "fullImage": "images/full/goblin5.jpg",
+      "tags": [
+        "figurine",
+        "3d"
+      ]
+    }
+  ]
+}
